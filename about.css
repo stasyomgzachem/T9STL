@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.link{
+    transition: 0.4s;
+    font-size: 28px;
+    text-decoration: none;
+    color: rgb(22, 45, 135);
+}
+header {
+    background-color: rgb(192, 181, 201);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.logo{
+height: 100%;
+}
+.link:hover {
+font-size: 34px;
+color: rgb(0, 0, 0);
+}
+.container {
+padding-left: 150px;
+padding-right: 150px;
+}
+.main {
+    margin-top: 50px;
+}
+.text {
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 100%;
+    border: 1px solid rgb(75, 9, 96);
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+}
